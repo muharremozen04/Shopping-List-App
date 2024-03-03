@@ -1,5 +1,3 @@
-// ShoppingList.js
-
 import { useState } from "react";
 import ListItem from "./ListItem";
 
